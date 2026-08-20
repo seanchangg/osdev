@@ -1,0 +1,26 @@
+{
+  "ui": {
+    "openTabs": [
+      {
+        "path": "/Users/seanchang/projects/osdev/build/rom.asm",
+        "isDirty": false
+      },
+      {
+        "path": "/Users/seanchang/projects/osdev/build/com1.asm",
+        "isDirty": false
+      },
+      {
+        "path": "/Users/seanchang/projects/osdev/build/stage1.asm",
+        "isDirty": false
+      }
+    ],
+    "activeTabIndex": 0,
+    "fileTreeVisible": true,
+    "terminalVisible": true,
+    "memoryBarVisible": true,
+    "breakpoints": {},
+    "benchmarks": [],
+    "aiCompletionEnabled": true,
+    "timerGroups": []
+  }
+}
