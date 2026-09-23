@@ -2,25 +2,31 @@
   "ui": {
     "openTabs": [
       {
-        "path": "/Users/seanchang/projects/osdev/build/rom.asm",
+        "path": "/Users/seanchang/projects/osdev/build/com1.asm",
         "isDirty": false
       },
       {
-        "path": "/Users/seanchang/projects/osdev/build/com1.asm",
+        "path": "/Users/seanchang/projects/osdev/build/stage2.asm",
         "isDirty": false
       },
       {
         "path": "/Users/seanchang/projects/osdev/build/stage1.asm",
         "isDirty": false
+      },
+      {
+        "path": "/Users/seanchang/projects/osdev/build/rom.asm",
+        "isDirty": false
       }
     ],
-    "activeTabIndex": 0,
+    "activeTabIndex": 3,
     "fileTreeVisible": true,
     "terminalVisible": true,
     "memoryBarVisible": true,
     "breakpoints": {},
     "benchmarks": [],
     "aiCompletionEnabled": true,
-    "timerGroups": []
+    "timerGroups": [],
+    "mode": "software",
+    "dipSwitches": []
   }
 }
